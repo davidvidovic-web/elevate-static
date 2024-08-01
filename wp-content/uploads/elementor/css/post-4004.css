@@ -1,0 +1,60 @@
+.elementor-4004 .elementor-element.elementor-element-a0a3c23{margin-top:70px;margin-bottom:0px;}.elementor-4004 .elementor-element.elementor-element-bb5bb8f img{height:400px;object-fit:cover;object-position:center center;}.elementor-4004 .elementor-element.elementor-element-7b347d0{text-align:left;}.elementor-4004 .elementor-element.elementor-element-7b347d0 .elementor-heading-title{color:#F49815;font-family:"Sora", Sans-serif;font-size:2em;font-weight:600;}.elementor-4004 .elementor-element.elementor-element-4138a67 .elementor-icon-list-icon i{color:#FFFFFF;font-size:16px;}.elementor-4004 .elementor-element.elementor-element-4138a67 .elementor-icon-list-icon svg{fill:#FFFFFF;--e-icon-list-icon-size:16px;}.elementor-4004 .elementor-element.elementor-element-4138a67 .elementor-icon-list-icon{width:16px;}.elementor-4004 .elementor-element.elementor-element-4138a67 .elementor-icon-list-text, .elementor-4004 .elementor-element.elementor-element-4138a67 .elementor-icon-list-text a{color:#FFFFFF;}.elementor-4004 .elementor-element.elementor-element-4138a67 .elementor-icon-list-item{font-weight:600;}/* Start custom CSS for theme-post-featured-image, class: .elementor-element-bb5bb8f */.elementor-4004 .elementor-element.elementor-element-bb5bb8f img {
+    width: 100%;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-Thin.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-ExtraLight.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-Light.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/12/Sora-ExtraBold.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */

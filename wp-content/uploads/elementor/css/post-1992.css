@@ -1,0 +1,20 @@
+.elementor-1992 .elementor-element.elementor-element-618ff229{margin-top:150px;margin-bottom:0px;}.elementor-1992 .elementor-element.elementor-element-62150fd7:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-1992 .elementor-element.elementor-element-62150fd7 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#02010100;}.elementor-1992 .elementor-element.elementor-element-62150fd7 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-1992 .elementor-element.elementor-element-62150fd7 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1992 .elementor-element.elementor-element-1c54175c > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-1992 .elementor-element.elementor-element-8ad57dc.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-1992 .elementor-element.elementor-element-1511e7a .elementor-heading-title{color:#FFFFFF;}.elementor-1992 .elementor-element.elementor-element-1511e7a > .elementor-widget-container{margin:0px 012px 0px 0px;padding:0px 0px 0px 0px;}.elementor-1992 .elementor-element.elementor-element-5100589 .elementor-heading-title{color:#FFFFFF;}.elementor-1992 .elementor-element.elementor-element-7f04cc24{margin-top:70px;margin-bottom:0px;}.elementor-1992 .elementor-element.elementor-element-21a7423{color:#FFFFFF;}/* Start custom CSS for column, class: .elementor-element-8ad57dc */.elementor-1992 .elementor-element.elementor-element-8ad57dc {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.elementor-1992 .elementor-element.elementor-element-8ad57dc > div > div {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin: 0;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-1c54175c */.elementor-1992 .elementor-element.elementor-element-1c54175c {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}/* End custom CSS */
